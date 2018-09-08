@@ -1,18 +1,18 @@
-Project Name 
+# Project Name 
 
 Tour Kenya
 
-Authors
+## Authors
 
  1.Chris Kinyua 
 
  2.Mohammed Ali
 
-Description
+## Description
 
  TourKenya is a website designed for the kenyan tourism industry. The site is meant to be a platform for customers(prospective tourists) to interact with kenyan tourist agencies and see what the country has to offer. It is built to provide convenience to custoners while providing marketing for tourist agencies in the country, and also advertising all the beautiful things we have in our country. We compare the different packages offered by tourist agencies in Kenya and provide the best value to customers. A tourist will be able to get the best deals at the click of a button. Come join us in enjoying our beautiful country.
 
-Specifications 
+## Specifications 
 
 1.The site has multiple functions:
 
@@ -25,7 +25,7 @@ Specifications
   2.They should enter the number of people in their group.
   3.After the user has entered all necessary info and submitted their form, a ticket should be printed listing all their choices and the total cost.
 
-Technologies Used 
+## Technologies Used 
 
 1.CSS
 
@@ -35,7 +35,7 @@ Technologies Used
 
 4.Python
 
-Usage 
+## Usage 
 
 To enter the website:
 
@@ -57,6 +57,6 @@ To enter the website:
 
 9.After receiving payment,we will email you your tickets and vouchers and you are good to go.
 
-Credits
+## Credits
 
  CS50 Harvard
