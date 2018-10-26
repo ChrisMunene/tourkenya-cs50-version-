@@ -5,7 +5,7 @@ from tempfile import mkdtemp
 from werkzeug.exceptions import default_exceptions
 from werkzeug.security import check_password_hash, generate_password_hash
 from time import strftime
-from helpers import apology, login_required, lookup, usd
+from helpers import apology, login_required
 import wikipedia
 from bs4 import BeautifulSoup
 import requests
