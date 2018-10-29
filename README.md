@@ -10,7 +10,7 @@ Tour Kenya
 
 ## Description
 
- TourKenya is a website designed for the kenyan tourism industry. The site is meant to be a platform for customers(prospective tourists) to interact with kenyan tourist agencies and see what the country has to offer. It is built to provide convenience to custoners while providing marketing for tourist agencies in the country, and also advertising all the beautiful things we have in our country. We compare the different packages offered by tourist agencies in Kenya and provide the best value to customers. A tourist will be able to get the best deals at the click of a button. Come join us in enjoying our beautiful country.
+ TourKenya is a website designed for the kenyan tourism industry. The site is meant to be a platform for customers(prospective tourists) to interact with kenyan tourist agencies and see what the country has to offer. We compare the different packages offered by tourist agencies in Kenya and provide the best value to customers. A tourist will be able to get the best deals at the click of a button. Come join us in enjoying our beautiful country.
 
 ## Specifications 
 
